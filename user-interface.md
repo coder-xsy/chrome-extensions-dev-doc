@@ -1,1 +1,0 @@
-# [插件和用户交互的能力总结](https://developer.chrome.com/docs/extensions/mv3/user_interface/)
