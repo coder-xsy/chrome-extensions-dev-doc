@@ -18,4 +18,5 @@
 4. [浏览器插件用户交互能力总结](./design-ui-interface.md)
 5. [浏览器插件api总结](./api-reference.md)
 6. [插件关键能力-浏览器网络请求拦截处理](./request.md)
-7. 继续完善
+7. [浏览器插件的结构组成](./architecture.md)
+8. 继续完善
